@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
         recyclerView = findViewById(R.id.recyclerview)
         recyclerView!!.setLayoutManager(LinearLayoutManager(this))
 
-       /*saveTaskPerso("Australia","Kylie Minogue")
+       saveTaskPerso("Australia","Kylie Minogue")
         saveTaskPerso("Australia","Hugh Jackman")
         saveTaskPerso("Australia","Cate Blanchett")
         saveTaskPerso("Brazil","Ayrton Senna")
@@ -134,7 +134,7 @@ class MainActivity : AppCompatActivity() {
         saveTask("Italy",R.drawable.flag_italy,resources.getStringArray(R.array.population_array)[4],
             resources.getStringArray(R.array.description_array)[4],
             resources.getStringArray(R.array.surface_array)[4],
-            R.raw.italy)*/
+            R.raw.italy)
 
 
         getCountry()
