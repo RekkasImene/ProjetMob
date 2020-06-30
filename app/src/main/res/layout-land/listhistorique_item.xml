@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dip"
+    android:background="@drawable/list_selector"
+    >
+
+    <ImageView
+        android:id="@+id/listRow"
+        android:layout_width="12dp"
+        android:layout_height="12dp"
+        android:layout_centerVertical="true"
+        android:src="@drawable/ic_lens"
+        android:tint="#F531CAA8 "/>
+
+    <TextView
+        android:id="@+id/textViewHistorique"
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="@+id/listRow"
+        android:layout_marginLeft="11dp"
+        android:layout_toRightOf="@+id/listRow"
+        android:fontFamily="@font/tienne"
+        android:text="@string/historique"
+        android:textColor="#000000"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/textViewDate"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="@+id/listRow"
+        android:layout_marginLeft="450dp"
+        android:layout_toRightOf="@+id/listRow"
+        android:fontFamily="@font/tienne"
+        android:text="@string/date"
+        android:textColor="#000000"
+        android:textSize="15dp" />
+
+
+</RelativeLayout>

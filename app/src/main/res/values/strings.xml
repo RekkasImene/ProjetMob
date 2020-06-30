@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">GeoMob</string>
+    <string name="vide"> </string>
+    <string name="country_name">Country Name</string>
+
+
+
+    <string-array name="description_array">
+        <item>" L'Australie est un pays et continent entouré par les océans Indien et Pacifique. Ses principales villes, Sydney, Brisbane, Melbourne, Perth et Adélaïde, sont bâties sur la côte. La capitale, Canberra, est quant à elle située à l'intérieur des terres. Le pays est connu pour l'opéra de Sydney, la Grande Barrière de corail, ses grandes étendues sauvages et désertiques appelées l'Outback, et ses espèces animales uniques comme le kangourou et l'ornithorynque."</item>
+        <item>"Le Brésil, vaste pays d'Amérique du Sud, s'étend du bassin amazonien au nord à des vignobles et aux chutes d'Iguaçu au sud. La ville de Rio de Janeiro, caractérisée par sa statue du Christ Rédempteur de 38 mètres de haut située au sommet du Corcovado, est réputée pour ses plages très fréquentées de Copacabana et d'Ipanema, ainsi que pour son énorme carnaval animé, avec défilés de chars, costumes flamboyants, et musique et danse samba."</item>
+        <item>"L'Allemagne est un pays d'Europe de l'Ouest dont le paysage se compose de forêts, de rivières, de chaînes montagneuses et de plages sur la mer du Nord. Son histoire remonte à plus de 2 000 ans en arrière. Dotée d'une vie artistique et nocturne animée, Berlin, sa capitale, inclut la porte de Brandebourg et de nombreux sites en lien avec la Seconde Guerre mondiale. Munich est connue pour son Oktoberfest et ses bars à bières, notamment l'Hofbräuhaus qui date du XVIe siècle. Francfort, avec ses gratte-ciel, abrite la Banque centrale européenne"</item>
+        <item>"Immense pays du sud de l'Asie, l'Inde offre un paysage varié, des pics de l'Himalaya au littoral de l'océan Indien. Son histoire remonte à 5 millénaires. Au nord se trouvent des sites datant de l'empire moghol tels que le Fort rouge et l'imposante mosquée Jama Masjid, à Delhi, ainsi que l'emblématique mausolée du Tāj Mahal, à Agra. Les pèlerins viennent faire leurs ablutions dans les eaux du Gange, à Bénarès. Rishikesh est la capitale du yoga, mais aussi le point de départ des randonnées vers l'Himalaya."</item>
+        <item>"L'Italie, pays européen bordé par la Méditerranée et l'Adriatique, a laissé une forte empreinte sur la culture et la cuisine occidentales. Sa capitale, Rome, abrite le Vatican ainsi que des trésors artistiques et des ruines antiques. Les autres grandes villes comprennent Florence, avec des chefs-d'œuvre de la Renaissance comme le David de Michel-Ange et le dôme de Brunelleschi, Venise, la ville des canaux, et Milan, la capitale italienne de la mode."</item>
+    </string-array>
+
+    <string-array name="population_array">
+        <item> 	25 464 116 hab (2019).</item>
+        <item> 211 715 973 hab (2020).</item>
+        <item> 83 149 300 hab (2019). </item>
+        <item> 1 326 093 247 hab (2020).</item>
+        <item> 	60 359 546 hab (2019) .</item>
+    </string-array>
+
+    <string-array name="surface_array">
+        <item>7 692 060 km2</item>
+        <item>8 514 876 km2</item>
+        <item>357 386 km2</item>
+        <item>3 287 263 km2</item>
+        <item>301 300 km2</item>
+    </string-array>
+
+    <string-array name="personnalités_array">
+        <item>Kylie Minogue,Hugh Jackman,Cate Blanchett</item>
+        <item>Ayrton Senna,Loalwa Braz,Antônio Carlos Jobim,Nelson Ned</item>
+        <item>Albert Einstein,Martin Luther,Claudia Schiffer,Anne Frank</item>
+        <item>Jyoti Amge,Priyanka Chopra,Nandita Das,Mohandas Karamchand Gandhi</item>
+        <item>Jules César,Marco Polo ,Dante Alighieri,Christophe Colomb</item>
+    </string-array>
+
+
+    <string-array name="ressources_array">
+        <item>la bauxite,le charbon bitumineux,le minerai de fer,le nickel, l\’or, le plomb, le zinc, l\’argent, le lignite, le pétrole offshore  et le gaz naturel offshore</item>
+        <item>la bauxite,l\'or, le fer, le manganèse, le nickel, les phosphates, le platine ou l\'uranium.</item>
+        <item>uranium,charbon, gaz naturel</item>
+        <item>la bauxite,l\'or,le fer, le manganèse, le nickel, les phosphates, le platine ou l\'uranium.</item>
+        <item>la bauxite,l\'or, le fer, le manganèse, le nickel, les phosphates, le platine ou l\'uranium.</item>
+    </string-array>
+
+    <string name="sautLigne">\n</string>
+    <string name="population">POPULATION</string>
+    <string name="hymne_national">HYMNE NATIONAL</string>
+    <string name="historique">HISTORIQUE</string>
+    <string name="principales_ressources">PRINCIPALES RESSOURCES</string>
+    <string name="ressource">Ressource</string>
+    <string name="principales_personnalites">PRINCIPALES PERSONNALITES</string>
+    <string name="nom_personnage">Nom personnage</string>
+    <string name="images_representatives">IMAGES REPRESENTATIVES</string>
+    <string name="images_representatives_de_pays">Images representatives de pays</string>
+    <string name="flag">Flag</string>
+    <string name="videos">VIDEOS SUR LE PAYS</string>
+    <string name="tweets_content">Tweets Content</string>
+    <string name="derniers_tweets">DERNIERS TWEETS</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="date">date</string>
+
+
+</resources>
+
+
+
+
+
+
